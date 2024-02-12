@@ -1,6 +1,6 @@
 # Login-Signup-Page-using-React
 
-<h3>Project Files</h3> - [https://github.com/Pragna235/Login-Signup-Page-using-React/tree/master](https://github.com/Pragna235/REACT_Project_Login_SignUp/tree/master)
+<h3>Project Files</h3> - https://github.com/Pragna235/REACT_Project_Login_SignUp/blob/master/README.md
 
 <h3> Live Project </h3> 
 
